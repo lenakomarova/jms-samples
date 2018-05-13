@@ -1,0 +1,5 @@
+rootProject.name = 'jms-samples'
+include 'jms-api'
+include 'spring-api'
+include 'camel-api'
+
